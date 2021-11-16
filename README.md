@@ -1,16 +1,16 @@
 # Awesome Me
 I put things here that are usefull to me
 
-# Learning
+## Learning
 
-## x86 Assembly
+### x86 Assembly
 * [The Atrevida Game Programming Tutorials](http://atrevida.comprenica.com/atrtut12.html) - part of an old game development tutorial, assumes some C knowledge
 
-## Others
+### Others
 * [Exersicm](https://exercism.org/)
 * [Learn X in Y minutes](https://learnxinyminutes.com/)
 
-# Creative Commons and similar resources
+## Creative Commons and similar resources
 * [LibriVox](https://librivox.org/) - Public domain audiobooks
 * [Unsplash](https://unsplash.com/) - Royalty free images
 * [Pixabay](https://pixabay.com/) - Similar to Unsplash
@@ -18,7 +18,7 @@ I put things here that are usefull to me
 * [Free Sound](https://freesound.org/) - A database of audio samples 
 * [CC Search](https://search.creativecommons.org/) - Creative commons content search
 
-# Time wasters
+## Time wasters
 * [Tetris](https://tetris.com/play-tetris)
 * [Zombie brakeout](https://dondido.github.io/zombie-breakout/)
 * [The Wiki Game](https://www.thewikigame.com/group)
