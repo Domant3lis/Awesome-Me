@@ -6,6 +6,11 @@ I put things here that are usefull to me
 ### x86 Assembly
 * [The Atrevida Game Programming Tutorials](http://atrevida.comprenica.com/atrtut12.html) - part of an old game development tutorial, assumes some C knowledge
 
+### MD2 Hash
+* [The original spec](https://www.rfc-editor.org/rfc/inline-errata/rfc1319.html) - This one links to the spec with correction, since the original is incorrect
+* [A Python implementation](https://gist.github.com/CameronLonsdale/23772092aa4e0c75f2426eb418b156e6)
+* [Cryptography hash method MD2 (Message Digest 2) explained with Python](https://scribe.rip/https:/nickthecrypt.medium.com/cryptography-hash-method-md2-message-digest-2-step-by-step-explanation-made-easy-with-python-10faa2e35e85) - A step by step guide
+
 ### Others
 * [Exersicm](https://exercism.org/)
 * [Learn X in Y minutes](https://learnxinyminutes.com/)
