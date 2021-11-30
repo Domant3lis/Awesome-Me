@@ -5,6 +5,8 @@ I put things here that are usefull to me
 
 ### x86 DOS Assembly
 * [The Atrevida Game Programming Tutorials](http://atrevida.comprenica.com/atrtut12.html) - part of an old game development tutorial, assumes some C knowledge
+* [DOSINTS](http://www2.ift.ulaval.ca/~marchand/ift17583/dosints.pdf) - A complete list of interupts
+* [DOS Function Codes](http://spike.scu.edu.au/~barry/interrupts.html) - Only int 21h interupts
 
 ### MD2 Hash
 * [The original spec](https://www.rfc-editor.org/rfc/inline-errata/rfc1319.html) - This one links to the spec with corrections, since the original is incorrect
