@@ -3,7 +3,7 @@ I put things here that are usefull to me
 
 ## Learning
 
-### x86 Assembly
+### x86 DOS Assembly
 * [The Atrevida Game Programming Tutorials](http://atrevida.comprenica.com/atrtut12.html) - part of an old game development tutorial, assumes some C knowledge
 
 ### MD2 Hash
