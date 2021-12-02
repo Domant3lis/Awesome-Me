@@ -26,6 +26,11 @@ I put things here that are usefull to me
 * [Exersicm](https://exercism.org/)
 * [Learn X in Y minutes](https://learnxinyminutes.com/)
 
+## Editors
+### Micro
+* [Cheat-sheet](https://cheatography.com/mynocksonmyfalcon/cheat-sheets/micro-text-editor/) - Default keybindings
+* [Keybindings](https://github.com/zyedidia/micro/blob/master/runtime/help/keybindings.md) - An explainer on how to change keybindings
+
 ## Creative Commons and similar resources
 * [LibriVox](https://librivox.org/) - Public domain audiobooks
 * [Unsplash](https://unsplash.com/) - Royalty free images
