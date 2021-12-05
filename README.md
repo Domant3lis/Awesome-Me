@@ -7,6 +7,7 @@ I put things here that are usefull to me
 * [The Atrevida Game Programming Tutorials](http://atrevida.comprenica.com/atrtut12.html) - part of an old game development tutorial, assumes some C knowledge
 * [DOSINTS](http://www2.ift.ulaval.ca/~marchand/ift17583/dosints.pdf) - A complete list of interupts
 * [DOS Function Codes](http://spike.scu.edu.au/~barry/interrupts.html) - Only int 21h interupts
+* [Assembler Programming Topics](https://web.archive.org/web/20071014011533/http://heim.ifi.uio.no/~stanisls/helppc/idx_assembler.html) - List of various instructions and other related topics
 
 ### MD2 Hash
 * [The original spec](https://www.rfc-editor.org/rfc/inline-errata/rfc1319.html) - This one links to the spec with corrections, since the original is incorrect
