@@ -1,5 +1,5 @@
 # Awesome Me
-I put things here that are usefull to me
+I put things here that are useful or interesting to me
 
 ## Learning
 
@@ -40,6 +40,10 @@ I put things here that are usefull to me
 * [Open Clip Art](https://openclipart.org/) - Free clipart
 * [Free Sound](https://freesound.org/) - A database of audio samples 
 * [CC Search](https://search.creativecommons.org/) - Creative commons content search
+
+## Surprisingly turing complete
+* [Fonts](https://www.coderelay.io/fontemon.html)
+* [PDFs](https://github.com/osnr/horrifying-pdf-experiments)
 
 ## Time wasters
 * [Tetris](https://tetris.com/play-tetris)
