@@ -41,9 +41,10 @@ I put things here that are useful or interesting to me
 * [Free Sound](https://freesound.org/) - A database of audio samples 
 * [CC Search](https://search.creativecommons.org/) - Creative commons content search
 
-## Surprisingly turing complete
+## Surprisingly turing complete or more capable than thought
 * [Fonts](https://www.coderelay.io/fontemon.html)
 * [PDFs](https://github.com/osnr/horrifying-pdf-experiments)
+* [CMake](https://64.github.io/cmake-raytracer/)
 
 ## Time wasters
 * [Tetris](https://tetris.com/play-tetris)
