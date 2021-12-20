@@ -54,4 +54,4 @@ I put things here that are useful or interesting to me
 * [Cloudpaint](https://www.cloudpaint.com/classic) - MacPaint clone in the web
 * [Micro Macro - Crime city](https://www.micromacro-game.com/en/index.html)
 * [Littlewargame](https://www.littlewargame.com/play/)
-* [Captain Forever](http://www.captainforever.com/captainforever.php) - Doesn't work, it just sits here, as a reminder of a great game
+* [Captain Forever](http://www.captainforever.com/captainforever.php) - Doesn't work, requires deprecared Flash
