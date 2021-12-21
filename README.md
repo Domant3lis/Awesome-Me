@@ -18,6 +18,7 @@ I put things here that are useful or interesting to me
 
 ### Make
 * [Makefile Tutorial](https://makefiletutorial.com/)
+* [A Simple Makefile Tutorial](https://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/)
 
 ### Regex
 * [regex101](https://regex101.com/)
