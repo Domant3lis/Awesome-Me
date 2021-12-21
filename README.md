@@ -1,4 +1,4 @@
-# Awesome Me
+# Awesome Resources
 I put things here that are useful or interesting to me
 
 ## Learning
