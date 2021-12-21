@@ -10,6 +10,7 @@ I put things here that are useful or interesting to me
 * [Assembler Programming Topics](https://web.archive.org/web/20071014011533/http://heim.ifi.uio.no/~stanisls/helppc/idx_assembler.html) - List of various instructions and other related topics
 * [DOS ASCII Table](https://fasterthanli.me/static/img/working-with-strings-in-rust/cp437.ad8320487c5712f9.png) - Full DOS-specific extended ASCII table
 * [8086 Datasheet](https://datasheetspdf.com/pdf-file/544568/Intel/8086/1) - This document describes 8086 processor in quite great detail
+* [Mitašiūno konspektas](http://www.mif.vu.lt/katedros/cs/Asmen/Kompiuteriu%20architektura.pdf) - (In Lithuanian)
 
 ### MD2 Hash
 * [The original spec](https://www.rfc-editor.org/rfc/inline-errata/rfc1319.html) - This one links to the spec with corrections, since the original is incorrect
