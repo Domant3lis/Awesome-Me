@@ -31,6 +31,10 @@ I put things here that are useful or interesting to me
 * [Exersicm](https://exercism.org/)
 * [Learn X in Y minutes](https://learnxinyminutes.com/)
 
+## Binary numbers
+### Floating point
+* [Floating Point Numbers](https://www.youtube.com/watch?v=gc1Nl3mmCuY)
+
 ## Editors
 ### Micro
 * [Cheat-sheet](https://cheatography.com/mynocksonmyfalcon/cheat-sheets/micro-text-editor/) - Default keybindings
