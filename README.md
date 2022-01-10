@@ -36,6 +36,7 @@ I put things here that are useful or interesting to me
 * [Floating Point Numbers](https://www.youtube.com/watch?v=gc1Nl3mmCuY)
 * [IEEE 754 Standard for Floating Point Binary Arithmetic](https://www.youtube.com/watch?v=RuKkePyo9zk)
 * [Denormal Numbers - More Floating Point Madness!](https://www.youtube.com/watch?v=b2FgF2sUoS8)
+* [Real Arithmetic](https://www.plantation-productions.com/Webster/www.artofasm.com/Windows/HTML/RealArithmetic.html)
 
 ## Editors
 ### Micro
