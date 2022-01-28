@@ -42,6 +42,7 @@ I put things here that are useful or interesting to me
 * 📑️ [Uxn Tutorial](https://compudanzas.net/uxn_tutorial.html)
 
 ## :crab: Rust
+* 📑️ [A half-hour to learn Rust](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)
 * 📑️ [Rust online cheatsheat](https://cheats.rs/)
 
 ## Binary numbers
