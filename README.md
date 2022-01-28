@@ -2,6 +2,7 @@
 I put things here that are useful or interesting to me
 
 📑️ - Means it's a written resource (such as a blogpost)
+
 🎥️ - Means it's a video resource (ussually a Youtube video)
 
 ## For Learning
