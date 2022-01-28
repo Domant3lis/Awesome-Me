@@ -37,6 +37,9 @@ I put things here that are useful or interesting to me
 * 📑️ [Exersicm](https://exercism.org/)
 * 📑️ [Learn X in Y minutes](https://learnxinyminutes.com/)
 
+## Uxn
+* 📑️ [Uxn Tutorial](https://compudanzas.net/uxn_tutorial.html)
+
 ## Binary numbers
 ### Floating point
 * 🎥️ [Floating Point Numbers](https://www.youtube.com/watch?v=gc1Nl3mmCuY)
