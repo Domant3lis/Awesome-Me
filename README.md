@@ -41,6 +41,9 @@ I put things here that are useful or interesting to me
 ## Uxn
 * 📑️ [Uxn Tutorial](https://compudanzas.net/uxn_tutorial.html)
 
+## :crab: Rust
+* 📑️ [Rust online cheatsheat](https://cheats.rs/)
+
 ## Binary numbers
 ### Floating point
 * 🎥️ [Floating Point Numbers](https://www.youtube.com/watch?v=gc1Nl3mmCuY)
