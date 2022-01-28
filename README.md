@@ -1,4 +1,4 @@
-# Awesome Resources
+# My Bookmarks
 I put things here that are useful or interesting to me
 
 ## Learning
