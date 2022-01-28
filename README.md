@@ -29,6 +29,7 @@ I put things here that are useful or interesting to me
 * 📑️ [regex101](https://regex101.com/)
 
 ### Maths
+* 📑️ [College Algebra](https://courses.lumenlearning.com/ivytech-collegealgebra/)
 * 📑️ [Gauss-Jordan Elimination Calculator](https://matrix.reshish.com/gauss-jordanElimination.php)
 * 📑️ [Trigonometry Concepts - Don't Memorize! Visualize!](https://www.youtube.com/watch?v=mhd9FXYdf4s)
 * 🎥️ [How To Find The Vector Equation of a Line and Symmetric & Parametric Equations](https://www.youtube.com/watch?v=MkjazYnvNP8&t=577s)
