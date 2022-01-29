@@ -72,7 +72,15 @@ I put things here that are useful or interesting to me
 * 📑️ [Cheat-sheet](https://cheatography.com/mynocksonmyfalcon/cheat-sheets/micro-text-editor/) - Default keybindings
 * 📑️ [Keybindings](https://github.com/zyedidia/micro/blob/master/runtime/help/keybindings.md) - An explainer on how to change keybindings
 
-## Creative Commons and similar resources
+## Cool Things
+* [Irdest](https://irde.st/) - Decentralised ad-hoc wireless mesh communication
+
+### Surprisingly turing complete or more capable than thought
+* 📑️ [Fonts](https://www.coderelay.io/fontemon.html)
+* 📑️ [PDFs](https://github.com/osnr/horrifying-pdf-experiments)
+* 📑️ [CMake](https://64.github.io/cmake-raytracer/)
+
+### Creative Commons and similar resources
 * [LibriVox](https://librivox.org/) - Public domain audiobooks
 * [Unsplash](https://unsplash.com/) - Royalty free images
 * [Pixabay](https://pixabay.com/) - Similar to Unsplash
@@ -80,12 +88,7 @@ I put things here that are useful or interesting to me
 * [Free Sound](https://freesound.org/) - A database of audio samples 
 * [CC Search](https://search.creativecommons.org/) - Creative commons content search
 
-## Surprisingly turing complete or more capable than thought
-* 📑️ [Fonts](https://www.coderelay.io/fontemon.html)
-* 📑️ [PDFs](https://github.com/osnr/horrifying-pdf-experiments)
-* 📑️ [CMake](https://64.github.io/cmake-raytracer/)
-
-## Time wasters
+### Time wasters
 * [Tetris](https://tetris.com/play-tetris)
 * [Zombie brakeout](https://dondido.github.io/zombie-breakout/)
 * [The Wiki Game](https://www.thewikigame.com/group)
