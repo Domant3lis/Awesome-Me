@@ -51,6 +51,9 @@ I put things here that are useful or interesting to me
 * 📑️ [A half-hour to learn Rust](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)
 * 📑️ [Rust online cheatsheat](https://cheats.rs/)
 
+### Tcl
+* 📑️ [Tcl Tutorial](https://www.tcl-lang.org/man/tcl8.5/tutorial/tcltutorial.html)
+
 ## Computer Science
 ### Binary numbers
 #### Floating point
