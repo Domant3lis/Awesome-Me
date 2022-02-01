@@ -54,6 +54,9 @@ I put things here that are useful or interesting to me
 ### Tcl
 * 📑️ [Tcl Tutorial](https://www.tcl-lang.org/man/tcl8.5/tutorial/tcltutorial.html)
 
+### C 
+* 📑️ [Clang -fsanitize docs](https://clang.llvm.org/docs/UsersManual.html#controlling-code-generation) - various tools for writing higher quality C code.
+
 ## Computer Science
 ### Binary numbers
 #### Floating point
