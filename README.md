@@ -77,6 +77,7 @@ I put things here that are useful or interesting to me
 
 ## Cool Things
 * [Irdest](https://irde.st/) - Decentralised ad-hoc wireless mesh communication
+* [Anytype](https://anytype.io/)
 
 ### Surprisingly turing complete or more capable than thought
 * 📑️ [Fonts](https://www.coderelay.io/fontemon.html)
