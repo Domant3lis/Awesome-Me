@@ -20,6 +20,7 @@ I put things here that are useful or interesting to me
 * 📑️ [regex101](https://regex101.com/)
 
 ### Maths
+* 📑️ [Boundless Algebra](https://courses.lumenlearning.com/boundless-algebra/)
 * 📑️ [College Algebra](https://courses.lumenlearning.com/ivytech-collegealgebra/)
 * 📑️ [Matrix Calculator](https://matrix.reshish.com/)
 * 🎥️ [Trigonometry Concepts - Don't Memorize! Visualize!](https://www.youtube.com/watch?v=mhd9FXYdf4s)
