@@ -57,6 +57,7 @@ I put things here that are useful or interesting to me
 
 ### C 
 * 📑️ [Clang -fsanitize docs](https://clang.llvm.org/docs/UsersManual.html#controlling-code-generation) - various tools for writing higher quality C code.
+* 📑️ [Infer](https://github.com/facebook/infer)
 
 ## Computer Science
 ### Binary numbers
