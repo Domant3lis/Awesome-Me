@@ -1,9 +1,11 @@
 # My Bookmarks
 I put things here that are useful or interesting to me
 
-📑️ - Means it's a written resource (such as a blogpost)
+📑️ - Written resource (such as a blogpost)
 
-🎥️ - Means it's a video resource (ussually a Youtube video)
+🎥️ - Video resource (ussually a Youtube video)
+
+🔧️ - Some sort of tool or utility
 
 ## For Learning
 
@@ -56,8 +58,8 @@ I put things here that are useful or interesting to me
 * 📑️ [Tcl Tutorial](https://www.tcl-lang.org/man/tcl8.5/tutorial/tcltutorial.html)
 
 ### C 
-* 📑️ [Clang -fsanitize docs](https://clang.llvm.org/docs/UsersManual.html#controlling-code-generation) - various tools for writing higher quality C code.
-* 📑️ [Infer](https://github.com/facebook/infer)
+* 🔧️ [Clang -fsanitize docs](https://clang.llvm.org/docs/UsersManual.html#controlling-code-generation) - various tools for writing higher quality C code.
+* 🔧️ [Infer](https://github.com/facebook/infer)
 
 ## Computer Science
 ### Binary numbers
