@@ -111,3 +111,10 @@ I put things here that are useful or interesting to me
 * [Micro Macro - Crime city](https://www.micromacro-game.com/en/index.html)
 * [Littlewargame](https://www.littlewargame.com/play/)
 * [Captain Forever](http://www.captainforever.com/captainforever.php) - Doesn't work, requires deprecared Flash
+
+### IT / CS lore
+* https://beza1e1.tuxen.de/lore/
+* https://suricrasia.online/iceberg/
+* https://rampantgames.com/blog/?p=7745
+* https://www.reddit.com/r/talesfromtechsupport/comments/21fup3/i_was_hired_to_do_web_developmentdesign/
+* https://www.reddit.com/r/talesfromtechsupport/comments/2cgxav/all_of_your_equipment_is_now_scrap/
