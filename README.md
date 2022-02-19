@@ -34,6 +34,8 @@ I put things here that are useful or interesting to me
 
 
 ## Programming languages
+* 📑️ [Devdocs](https://devdocs.io/) - The Ultimate Docs. "DevDocs combines multiple API documentations in a fast, organized, and searchable interface."
+* 🔧️ [OneCompiler](https://onecompiler.com/) - Quickly share and write short snippets of code
 
 ### x86 DOS Assembly
 * 📑️ [The Atrevida Game Programming Tutorials](http://atrevida.comprenica.com/atrtut12.html) - part of an old game development tutorial, assumes some C knowledge
@@ -42,6 +44,7 @@ I put things here that are useful or interesting to me
 * 📑️ [Assembler Programming Topics](https://web.archive.org/web/20071014011533/http://heim.ifi.uio.no/~stanisls/helppc/idx_assembler.html) - List of various instructions and other related topics
 * 📑️ [DOS ASCII Table](https://fasterthanli.me/static/img/working-with-strings-in-rust/cp437.ad8320487c5712f9.png) - Full DOS-specific extended ASCII table
 * 📑️ [8086 Datasheet](https://datasheetspdf.com/pdf-file/544568/Intel/8086/1) - This document describes 8086 processor in quite great detail
+* 📑️ [Jump Table](https://web.archive.org/web/20220116172818/http://unixwiz.net/techtips/x86-jumps.html)
 * 📑️ [Mitašiūno konspektas](http://www.mif.vu.lt/katedros/cs/Asmen/Kompiuteriu%20architektura.pdf) - (In Lithuanian)
 
 ### Crystal
@@ -71,17 +74,20 @@ I put things here that are useful or interesting to me
 
 ## My setup 
 ### Make Windows bearable
-* [MSYS2](https://www.msys2.org/)
+* 🔧️ [MSYS2](https://www.msys2.org/)
 ### Fonts
-* [Iosevka](https://typeof.net/Iosevka/)
+* 🔧️ [Iosevka](https://typeof.net/Iosevka/)
 ### Code Editors
 #### Micro
 * 📑️ [Cheat-sheet](https://cheatography.com/mynocksonmyfalcon/cheat-sheets/micro-text-editor/) - Default keybindings
 * 📑️ [Keybindings](https://github.com/zyedidia/micro/blob/master/runtime/help/keybindings.md) - An explainer on how to change keybindings
 
+## Tools
+* 🔧️ [Hat,sh](https://hat.sh/) - simple encryption / decryption tool
+
 ## Cool Things
-* [Irdest](https://irde.st/) - Decentralised ad-hoc wireless mesh communication
-* [Anytype](https://anytype.io/)
+* 🔧️ [Irdest](https://irde.st/) - Decentralised ad-hoc wireless mesh communication
+* 🔧️ [Anytype](https://anytype.io/) - "Operating system for life"
 
 ### Surprisingly turing complete or more capable than thought
 * 📑️ [Fonts](https://www.coderelay.io/fontemon.html)
