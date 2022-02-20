@@ -73,6 +73,10 @@ I put things here that are useful or interesting to me
 * 📑️ [Real Arithmetic](https://www.plantation-productions.com/Webster/www.artofasm.com/Windows/HTML/RealArithmetic.html)
 
 ## My setup 
+
+### Make Android bearable
+* 📑️ [Pre-installed app removal](https://www.reddit.com/r/assholedesign/comments/i2249h/let_us_uninstall_facebook/g027zzw/?context=3) - A method to remove some pre-installed apps on Android phones.
+
 ### Make Windows bearable
 * 🔧️ [MSYS2](https://www.msys2.org/)
 ### Fonts
@@ -81,6 +85,10 @@ I put things here that are useful or interesting to me
 #### Micro
 * 📑️ [Cheat-sheet](https://cheatography.com/mynocksonmyfalcon/cheat-sheets/micro-text-editor/) - Default keybindings
 * 📑️ [Keybindings](https://github.com/zyedidia/micro/blob/master/runtime/help/keybindings.md) - An explainer on how to change keybindings
+
+### DNS
+* [LibreDNS](https://libredns.gr/)
+* [NextDNS](https://nextdns.io/)
 
 ## Tools
 * 🔧️ [Hat,sh](https://hat.sh/) - simple encryption / decryption tool
