@@ -36,6 +36,7 @@ I put things here that are useful or interesting to me
 ## Programming languages
 * 📑️ [Devdocs](https://devdocs.io/) - The Ultimate Docs. "DevDocs combines multiple API documentations in a fast, organized, and searchable interface."
 * 🔧️ [OneCompiler](https://onecompiler.com/) - Quickly share and write short snippets of code
+* 📑️ [Rosetta Code](https://rosettacode.org/wiki/Rosetta_Code) - "Rosetta Code is a programming chrestomathy site."
 
 ### x86 DOS Assembly
 * 📑️ [The Atrevida Game Programming Tutorials](http://atrevida.comprenica.com/atrtut12.html) - part of an old game development tutorial, assumes some C knowledge
@@ -60,24 +61,33 @@ I put things here that are useful or interesting to me
 
 ### Tcl
 * 📑️ [Tcl Tutorial](https://www.tcl-lang.org/man/tcl8.5/tutorial/tcltutorial.html)
+* 📑️ [Tcl the Misunderstood](http://antirez.com/articoli/tclmisunderstood.html)
 
 ### C 
 * 🔧️ [Clang -fsanitize docs](https://clang.llvm.org/docs/UsersManual.html#controlling-code-generation) - various tools for writing higher quality C code.
 * 🔧️ [Infer](https://github.com/facebook/infer)
+
+### GLSL
+* 📑️ [The Book of Shaders](https://thebookofshaders.com/)
+
 
 ## Computer Science
 
 * 📑️ [Bit Masks](https://www.playembedded.org/blog/registers-and-bit-masks/)
 
 ### Binary numbers
-
 - 📑️ [Two's complement](https://www.learnabout-electronics.org/Digital/dig15.php)
+- 📑️ [Twos complement: Negative numbers in binary](https://www.youtube.com/watch?v=4qH4unVtJkE&t=597s)
 
 #### Floating point
 * 🎥️ [Floating Point Numbers](https://www.youtube.com/watch?v=gc1Nl3mmCuY)
 * 🎥️ [IEEE 754 Standard for Floating Point Binary Arithmetic](https://www.youtube.com/watch?v=RuKkePyo9zk)
 * 🎥️ [Denormal Numbers - More Floating Point Madness!](https://www.youtube.com/watch?v=b2FgF2sUoS8)
 * 📑️ [Real Arithmetic](https://www.plantation-productions.com/Webster/www.artofasm.com/Windows/HTML/RealArithmetic.html)
+
+### Computer Graphics
+* 📑️ [Learning Modern 3D Graphics Programming](https://paroj.github.io/gltut/)
+
 
 ## My setup 
 
@@ -87,6 +97,11 @@ I put things here that are useful or interesting to me
 ### Make Windows bearable
 * 🔧️ [MSYS2](https://www.msys2.org/)
 * 🔧️ [Diskgenius](https://www.diskgenius.com/)
+* 🔧️ [XCompose for Windows](https://github.com/samhocevar/wincompose)
+
+### Linux
+* 🔧️ [Calf Studio Gear](https://calf-studio-gear.org/)
+
 ### Fonts
 * 🔧️ [Iosevka](https://typeof.net/Iosevka/)
 ### Code Editors
@@ -104,6 +119,9 @@ I put things here that are useful or interesting to me
 ## Cool Things
 * 🔧️ [Irdest](https://irde.st/) - Decentralised ad-hoc wireless mesh communication
 * 🔧️ [Anytype](https://anytype.io/) - "Operating system for life"
+* 🔧️ [Svgbob Editor](https://ivanceras.github.io/svgbob-editor/) - "Convert your ascii diagram scribbles into happy little SVG"
+* 🔧️ [Aseprite](https://www.aseprite.org/) - Pixel art editor
+* [Spritely](https://spritelyproject.org/)
 
 ### Surprisingly turing complete or more capable than thought
 * 📑️ [Fonts](https://www.coderelay.io/fontemon.html)
