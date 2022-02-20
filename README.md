@@ -39,8 +39,9 @@ I put things here that are useful or interesting to me
 
 ### x86 DOS Assembly
 * 📑️ [The Atrevida Game Programming Tutorials](http://atrevida.comprenica.com/atrtut12.html) - part of an old game development tutorial, assumes some C knowledge
-* 📑️ [DOSINTS](http://www2.ift.ulaval.ca/~marchand/ift17583/dosints.pdf) - A complete list of interupts
-* 📑️ [DOS Function Codes](http://spike.scu.edu.au/~barry/interrupts.html) - Only int 21h interupts
+* 📑️ [DOSINTS](http://www2.ift.ulaval.ca/~marchand/ift17583/dosints.pdf) - A complete list of interrupts
+* 📑️ [DOS Function Codes](http://spike.scu.edu.au/~barry/interrupts.html) - Only int 21h interrupts
+* 📑️ [i8086 & DOS interrupts](https://web.archive.org/web/20220203181249/https://www.gabrielececchetti.it/Teaching/CalcolatoriElettronici/Docs/i8086_and_DOS_interrupts.pdf) - Yet another list of interrupts
 * 📑️ [Assembler Programming Topics](https://web.archive.org/web/20071014011533/http://heim.ifi.uio.no/~stanisls/helppc/idx_assembler.html) - List of various instructions and other related topics
 * 📑️ [DOS ASCII Table](https://fasterthanli.me/static/img/working-with-strings-in-rust/cp437.ad8320487c5712f9.png) - Full DOS-specific extended ASCII table
 * 📑️ [8086 Datasheet](https://datasheetspdf.com/pdf-file/544568/Intel/8086/1) - This document describes 8086 processor in quite great detail
@@ -65,7 +66,13 @@ I put things here that are useful or interesting to me
 * 🔧️ [Infer](https://github.com/facebook/infer)
 
 ## Computer Science
+
+* 📑️ [Bit Masks](https://www.playembedded.org/blog/registers-and-bit-masks/)
+
 ### Binary numbers
+
+- 📑️ [Two's complement](https://www.learnabout-electronics.org/Digital/dig15.php)
+
 #### Floating point
 * 🎥️ [Floating Point Numbers](https://www.youtube.com/watch?v=gc1Nl3mmCuY)
 * 🎥️ [IEEE 754 Standard for Floating Point Binary Arithmetic](https://www.youtube.com/watch?v=RuKkePyo9zk)
@@ -79,6 +86,7 @@ I put things here that are useful or interesting to me
 
 ### Make Windows bearable
 * 🔧️ [MSYS2](https://www.msys2.org/)
+* 🔧️ [Diskgenius](https://www.diskgenius.com/)
 ### Fonts
 * 🔧️ [Iosevka](https://typeof.net/Iosevka/)
 ### Code Editors
@@ -109,6 +117,7 @@ I put things here that are useful or interesting to me
 * [Open Clip Art](https://openclipart.org/) - Free clipart
 * [Free Sound](https://freesound.org/) - A database of audio samples 
 * [CC Search](https://search.creativecommons.org/) - Creative commons content search
+* [Freepik](https://www.freepik.com/) - Free vector files
 
 ### Time wasters
 * [Tetris](https://tetris.com/play-tetris)
