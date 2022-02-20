@@ -1,5 +1,5 @@
 # My Bookmarks
-I put things here that are useful or interesting to me
+I put things here that are solely useful or interesting to me
 
 📑️ - Written resource (such as a blogpost)
 
@@ -72,10 +72,11 @@ I put things here that are useful or interesting to me
 
 
 ## Computer Science
+### Binary numbers
 
 * 📑️ [Bit Masks](https://www.playembedded.org/blog/registers-and-bit-masks/)
 
-### Binary numbers
+#### Two's complement
 - 📑️ [Two's complement](https://www.learnabout-electronics.org/Digital/dig15.php)
 - 📑️ [Twos complement: Negative numbers in binary](https://www.youtube.com/watch?v=4qH4unVtJkE&t=597s)
 
@@ -84,6 +85,9 @@ I put things here that are useful or interesting to me
 * 🎥️ [IEEE 754 Standard for Floating Point Binary Arithmetic](https://www.youtube.com/watch?v=RuKkePyo9zk)
 * 🎥️ [Denormal Numbers - More Floating Point Madness!](https://www.youtube.com/watch?v=b2FgF2sUoS8)
 * 📑️ [Real Arithmetic](https://www.plantation-productions.com/Webster/www.artofasm.com/Windows/HTML/RealArithmetic.html)
+
+#### Decimal floating point
+* [Difference between 'decimal' and 'float'](https://stackoverflow.com/a/33354080/16619794)
 
 ### Computer Graphics
 * 📑️ [Learning Modern 3D Graphics Programming](https://paroj.github.io/gltut/)
@@ -122,6 +126,7 @@ I put things here that are useful or interesting to me
 * 🔧️ [Svgbob Editor](https://ivanceras.github.io/svgbob-editor/) - "Convert your ascii diagram scribbles into happy little SVG"
 * 🔧️ [Aseprite](https://www.aseprite.org/) - Pixel art editor
 * [Spritely](https://spritelyproject.org/)
+* [MercuryOs](https://www.mercuryos.com/)
 
 ### Surprisingly turing complete or more capable than thought
 * 📑️ [Fonts](https://www.coderelay.io/fontemon.html)
