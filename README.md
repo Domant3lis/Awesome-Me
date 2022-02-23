@@ -89,6 +89,11 @@ I put things here that are solely useful or interesting to me
 #### Decimal floating point
 * [Difference between 'decimal' and 'float'](https://stackoverflow.com/a/33354080/16619794)
 
+### Data structures
+#### Dequeue
+* 📑️ [Double-ended_queue](https://en.wikipedia.org/wiki/Double-ended_queue)
+* 📑️ [Deque](https://www.programiz.com/dsa/deque)
+
 ### Computer Graphics
 * 📑️ [Learning Modern 3D Graphics Programming](https://paroj.github.io/gltut/)
 https://www.reddit.com/r/assholedesign/comments/i2249h/comment/g027zzw/?utm_source=share&utm_medium=web2x&context=3
