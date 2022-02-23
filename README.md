@@ -91,12 +91,11 @@ I put things here that are solely useful or interesting to me
 
 ### Computer Graphics
 * 📑️ [Learning Modern 3D Graphics Programming](https://paroj.github.io/gltut/)
-
-
+https://www.reddit.com/r/assholedesign/comments/i2249h/comment/g027zzw/?utm_source=share&utm_medium=web2x&context=3
 ## My setup 
 
 ### Make Android bearable
-* 📑️ [Pre-installed app removal](https://www.reddit.com/r/assholedesign/comments/i2249h/let_us_uninstall_facebook/g027zzw/?context=3) - A method to remove some pre-installed apps on Android phones.
+* 📑️ [Pre-installed app removal](https://www.reddit.com/r/assholedesign/comments/i2249h/comment/g027zzw/) - A method to remove some pre-installed apps on Android phones.
 
 ### Make Windows bearable
 * 🔧️ [MSYS2](https://www.msys2.org/)
