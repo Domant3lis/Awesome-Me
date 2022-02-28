@@ -96,7 +96,7 @@ I put things here that are solely useful or interesting to me
 
 ### Computer Graphics
 * 📑️ [Learning Modern 3D Graphics Programming](https://paroj.github.io/gltut/)
-https://www.reddit.com/r/assholedesign/comments/i2249h/comment/g027zzw/?utm_source=share&utm_medium=web2x&context=3
+
 ## My setup 
 
 ### Make Android bearable
