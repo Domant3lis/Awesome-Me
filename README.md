@@ -120,10 +120,11 @@ I put things here that are solely useful or interesting to me
 * 📑️ [Keybindings](https://github.com/zyedidia/micro/blob/master/runtime/help/keybindings.md) - An explainer on how to change keybindings
 
 ### DNS
-* [LibreDNS](https://libredns.gr/)
-* [NextDNS](https://nextdns.io/)
+* 🔧️ [LibreDNS](https://libredns.gr/)
+* 🔧️ [NextDNS](https://nextdns.io/)
 
 ## Tools
+* 📑️ [Sustainable Authorship in Plain Text using Pandoc and Markdown](https://programminghistorian.org/en/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown) - A guide to using markdown with pandoc
 * 🔧️ [Hat,sh](https://hat.sh/) - simple encryption / decryption tool
 * 🔧️ [Cloudconvert](https://cloudconvert.com/) - Probably the best onlince convertion tool I've found i.e not full wihth annoying adds and limits. Has lot's of convertion options.
 
