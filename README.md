@@ -108,6 +108,8 @@ I put things here that are solely useful or interesting to me
 * 🔧️ [XCompose for Windows](https://github.com/samhocevar/wincompose)
 
 ### Linux
+#### Audio
+* 🔧️ [QjackCtl](https://qjackctl.sourceforge.io/) - A simple application to control the JACK server daemon
 * 🔧️ [Calf Studio Gear](https://calf-studio-gear.org/)
 
 ### Fonts
