@@ -3,16 +3,14 @@ I put things here that are solely useful or interesting to me
 
 📑️ - Written resource (such as a blogpost)
 
+🧤️ - Interactive resource
+
 🎥️ - Video resource (ussually a Youtube video)
 
 🔧️ - Some sort of tool or utility
 
-## For Learning
 
-### MD2 Hash
-* 📑️ [The original spec](https://www.rfc-editor.org/rfc/inline-errata/rfc1319.html) - This one links to the spec with corrections, since the original is incorrect
-* 📑️ [A Python implementation](https://gist.github.com/CameronLonsdale/23772092aa4e0c75f2426eb418b156e6)
-* 📑️ [Cryptography hash method MD2 (Message Digest 2) explained with Python](https://scribe.rip/https:/nickthecrypt.medium.com/cryptography-hash-method-md2-message-digest-2-step-by-step-explanation-made-easy-with-python-10faa2e35e85) - A step by step guide (contains a small mistake where leading zeroes, then combining final values into hexadecimal representations, are skiped)
+## For Learning
 
 ### Make
 * 📑️ [Makefile Tutorial](https://makefiletutorial.com/)
@@ -70,6 +68,9 @@ I put things here that are solely useful or interesting to me
 ### GLSL
 * 📑️ [The Book of Shaders](https://thebookofshaders.com/)
 
+### JavaScript
+* 📑️ [The Modern JavaScript Tutorial](https://javascript.info/)
+
 
 ## Computer Science
 ### Binary numbers
@@ -87,27 +88,41 @@ I put things here that are solely useful or interesting to me
 * 📑️ [Real Arithmetic](https://www.plantation-productions.com/Webster/www.artofasm.com/Windows/HTML/RealArithmetic.html)
 
 #### Decimal floating point
-* [Difference between 'decimal' and 'float'](https://stackoverflow.com/a/33354080/16619794)
+* 📑️ [Difference between 'decimal' and 'float'](https://stackoverflow.com/a/33354080/16619794)
 
-### Data structures
+### Algorithms and Data structures
+* 📑️ [Data Strutures and Algorithms](https://catherine-leung.gitbook.io/data-strutures-and-algorithms/) - a book like resource
+
 #### Dequeue
 * 📑️ [Double-ended_queue](https://en.wikipedia.org/wiki/Double-ended_queue)
 * 📑️ [Deque](https://www.programiz.com/dsa/deque)
 
+#### Hash Table
+* 🧤️/📑️ [Hashtable](https://visualgo.net/en/hashtable)
+* 📑️ [Linear probing](https://www.tutorialspoint.com/data_structures_algorithms/hash_data_structure.htm)
+* 📑️ [Linear probing](https://catherine-leung.gitbook.io/data-strutures-and-algorithms/table/hash-tables/untitled-1-2)
+
+### Cryptography
+#### MD2 Hash
+* 📑️ [The original spec](https://www.rfc-editor.org/rfc/inline-errata/rfc1319.html) - This one links to the spec with corrections, since the original is incorrect
+* 📑️ [A Python implementation](https://gist.github.com/CameronLonsdale/23772092aa4e0c75f2426eb418b156e6)
+* 📑️ [Cryptography hash method MD2 (Message Digest 2) explained with Python](https://scribe.rip/https:/nickthecrypt.medium.com/cryptography-hash-method-md2-message-digest-2-step-by-step-explanation-made-easy-with-python-10faa2e35e85) - A step by step guide (contains a small mistake where leading zeroes, then combining final values into hexadecimal representations, are skiped)
+
 ### Computer Graphics
 * 📑️ [Learning Modern 3D Graphics Programming](https://paroj.github.io/gltut/)
 
-## My setup 
 
-### Make Android bearable
+## My setup
+
+### Android more bearable
 * 📑️ [Pre-installed app removal](https://www.reddit.com/r/assholedesign/comments/i2249h/comment/g027zzw/) - A method to remove some pre-installed apps on Android phones.
 
-### Make Windows bearable
+### Windows more bearable
 * 🔧️ [MSYS2](https://www.msys2.org/)
 * 🔧️ [Diskgenius](https://www.diskgenius.com/)
 * 🔧️ [XCompose for Windows](https://github.com/samhocevar/wincompose)
 
-### Linux
+### Linux more bearable
 #### Audio
 * 🔧️ [QjackCtl](https://qjackctl.sourceforge.io/) - A simple application to control the JACK server daemon
 * 🔧️ [Calf Studio Gear](https://calf-studio-gear.org/)
@@ -123,10 +138,12 @@ I put things here that are solely useful or interesting to me
 * 🔧️ [LibreDNS](https://libredns.gr/)
 * 🔧️ [NextDNS](https://nextdns.io/)
 
+
 ## Tools
 * 📑️ [Sustainable Authorship in Plain Text using Pandoc and Markdown](https://programminghistorian.org/en/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown) - A guide to using markdown with pandoc
 * 🔧️ [Hat,sh](https://hat.sh/) - simple encryption / decryption tool
 * 🔧️ [Cloudconvert](https://cloudconvert.com/) - Probably the best onlince convertion tool I've found i.e not full wihth annoying adds and limits. Has lot's of convertion options.
+
 
 ## Cool Things
 * 🔧️ [Irdest](https://irde.st/) - Decentralised ad-hoc wireless mesh communication
