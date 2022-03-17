@@ -28,6 +28,7 @@ I put things here that are solely useful or interesting to me
 
 ### Building your own language
 * 📑️ [Monkeylang](https://monkeylang.org/)
+* 📑️ [Forth interpreter](https://twitter.com/typeswitch/status/1475806903481638912)
 
 ### Others
 * 📑️ [Exersicm](https://exercism.org/)
