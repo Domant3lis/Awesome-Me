@@ -26,6 +26,9 @@ I put things here that are solely useful or interesting to me
 * 🎥️ [Trigonometry Concepts - Don't Memorize! Visualize!](https://www.youtube.com/watch?v=mhd9FXYdf4s)
 * 🎥️ [How To Find The Vector Equation of a Line and Symmetric & Parametric Equations](https://www.youtube.com/watch?v=MkjazYnvNP8&t=577s)
 
+### Building your own language
+* 📑️ [Monkeylang](https://monkeylang.org/)
+
 ### Others
 * 📑️ [Exersicm](https://exercism.org/)
 * 📑️ [Learn X in Y minutes](https://learnxinyminutes.com/)
