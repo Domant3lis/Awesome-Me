@@ -54,8 +54,9 @@ I put things here that are solely useful or interesting to me
 ### Crystal
 * 📑️ [Algorithms in Crystal](https://algos-with-crystal.github.io/)
 
-### Uxn
+### Uxntal
 * 📑️ [Uxn Tutorial](https://compudanzas.net/uxn_tutorial.html)
+* 📑️ [Uxn wiki](https://wiki.xxiivv.com/site/uxntal.html)
 
 ### :crab: Rust
 * 📑️ [A half-hour to learn Rust](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)
@@ -143,11 +144,14 @@ I put things here that are solely useful or interesting to me
 * 🔧️ [NextDNS](https://nextdns.io/)
 
 
-## Tools
+## (Cool) Tools
 * 📑️ [Sustainable Authorship in Plain Text using Pandoc and Markdown](https://programminghistorian.org/en/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown) - A guide to using markdown with pandoc
 * 🔧️ [Hat,sh](https://hat.sh/) - simple encryption / decryption tool
 * 🔧️ [Cloudconvert](https://cloudconvert.com/) - Probably the best onlince convertion tool I've found i.e not full wihth annoying adds and limits. Has lot's of convertion options.
 
+### Web
+* 🔧️ [Site.js](https://sitejs.org/) - Small Web construction set
+* 📑️ [Static Site Generators](https://staticsitegenerators.net/) - The definitive listing of Static Site Generators!
 
 ## Cool Things
 * 🔧️ [Irdest](https://irde.st/) - Decentralised ad-hoc wireless mesh communication
