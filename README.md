@@ -149,18 +149,19 @@ I put things here that are solely useful or interesting to me
 * 🔧️ [Hat,sh](https://hat.sh/) - simple encryption / decryption tool
 * 🔧️ [Cloudconvert](https://cloudconvert.com/) - Probably the best onlince convertion tool I've found i.e not full wihth annoying adds and limits. Has lot's of convertion options.
 * [Bloom3D](https://bloom3d.com/) - A simple 3D tool
+* 🔧️ [Svgbob Editor](https://ivanceras.github.io/svgbob-editor/) - "Convert your ascii diagram scribbles into happy little SVG"
+* 🔧️ [Aseprite](https://www.aseprite.org/) - Pixel art editor
 
 ### Web
 * 🔧️ [Site.js](https://sitejs.org/) - Small Web construction set
-* 📑️ [Static Site Generators](https://staticsitegenerators.net/) - The definitive listing of Static Site Generators!
+* https://anytype.io/) [Static Site Generators](https://staticsitegenerators.net/) - The definitive listing of Static Site Generators!
 
 ## Cool Things
 * 🔧️ [Irdest](https://irde.st/) - Decentralised ad-hoc wireless mesh communication
 * 🔧️ [Anytype](https://anytype.io/) - "Operating system for life"
-* 🔧️ [Svgbob Editor](https://ivanceras.github.io/svgbob-editor/) - "Convert your ascii diagram scribbles into happy little SVG"
-* 🔧️ [Aseprite](https://www.aseprite.org/) - Pixel art editor
-* [Spritely](https://spritelyproject.org/)
-* [MercuryOs](https://www.mercuryos.com/)
+* 🔧️ [Spritely](https://spritelyproject.org/)
+* 📑️ [MercuryOs](https://www.mercuryos.com/)
+* 📑️ [C Portability Lessons from Weird Machines](https://begriffs.com/posts/2018-11-15-c-portability.html)
 
 ### Surprisingly turing complete or more capable than thought
 * 📑️ [Fonts](https://www.coderelay.io/fontemon.html)
