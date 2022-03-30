@@ -148,9 +148,10 @@ I put things here that are solely useful or interesting to me
 * 📑️ [Sustainable Authorship in Plain Text using Pandoc and Markdown](https://programminghistorian.org/en/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown) - A guide to using markdown with pandoc
 * 🔧️ [Hat,sh](https://hat.sh/) - simple encryption / decryption tool
 * 🔧️ [Cloudconvert](https://cloudconvert.com/) - Probably the best onlince convertion tool I've found i.e not full wihth annoying adds and limits. Has lot's of convertion options.
-* [Bloom3D](https://bloom3d.com/) - A simple 3D tool
+* 🔧️ [Bloom3D](https://bloom3d.com/) - A simple 3D tool
 * 🔧️ [Svgbob Editor](https://ivanceras.github.io/svgbob-editor/) - "Convert your ascii diagram scribbles into happy little SVG"
 * 🔧️ [Aseprite](https://www.aseprite.org/) - Pixel art editor
+* 🔧️ [VU-LFF](https://bx2.tech/vu-lff/) - Generates a LFF document from commit messages
 
 ### Web
 * 🔧️ [Site.js](https://sitejs.org/) - Small Web construction set
