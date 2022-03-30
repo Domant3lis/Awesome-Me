@@ -1,4 +1,4 @@
-# My Bookmarks
+# ✨️ My Bookmarks
 I put things here that are solely useful or interesting to me
 
 📑️ - Written resource (such as a blogpost)
@@ -155,7 +155,7 @@ I put things here that are solely useful or interesting to me
 
 ### Web
 * 🔧️ [Site.js](https://sitejs.org/) - Small Web construction set
-* https://anytype.io/) [Static Site Generators](https://staticsitegenerators.net/) - The definitive listing of Static Site Generators!
+* 📑️ [Static Site Generators](https://staticsitegenerators.net/) - The definitive listing of Static Site Generators.
 
 ## Cool Things
 * 🔧️ [Irdest](https://irde.st/) - Decentralised ad-hoc wireless mesh communication
