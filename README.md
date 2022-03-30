@@ -1,5 +1,5 @@
 # ✨️ My Bookmarks
-I put things here that are solely useful or interesting to me
+I put things here that are useful or interesting to solely me
 
 📑️ - Written resource (such as a blogpost)
 
