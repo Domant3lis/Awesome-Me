@@ -37,7 +37,8 @@ I put things here that are useful or interesting to solely me
 
 ## Programming languages
 * 📑️ [Devdocs](https://devdocs.io/) - The Ultimate Docs. "DevDocs combines multiple API documentations in a fast, organized, and searchable interface."
-* 🔧️ [OneCompiler](https://onecompiler.com/) - Quickly share and write short snippets of code
+* 🔧️ [OneCompiler](https://onecompiler.com/) - Online compiler
+* 🔧️ [Try it online](https://tio.run/#) - Online compiler
 * 📑️ [Rosetta Code](https://rosettacode.org/wiki/Rosetta_Code) - "Rosetta Code is a programming chrestomathy site."
 
 ### x86 DOS Assembly
