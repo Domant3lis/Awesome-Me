@@ -77,6 +77,8 @@ I put things here that are useful or interesting to solely me
 ### JavaScript
 * 📑️ [The Modern JavaScript Tutorial](https://javascript.info/)
 
+### Haskell
+* 📑️ [Getting started with Haskell](https://stackoverflow.com/a/1016986/16619794)
 
 ## Computer Science
 ### Binary numbers
