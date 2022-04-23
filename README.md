@@ -166,6 +166,7 @@ I put things here that are useful or interesting to solely me
 * 🔧️ [Spritely](https://spritelyproject.org/)
 * 📑️ [MercuryOs](https://www.mercuryos.com/)
 * 📑️ [C Portability Lessons from Weird Machines](https://begriffs.com/posts/2018-11-15-c-portability.html)
+* 🔧️ [O RLY Cover Generator](https://dev.to/rly)
 
 ### Surprisingly turing complete or more capable than thought
 * 📑️ [Fonts](https://www.coderelay.io/fontemon.html)
