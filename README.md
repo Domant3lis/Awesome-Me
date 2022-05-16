@@ -137,9 +137,13 @@ I put things here that are useful or interesting to solely me
 * 🔧️ [XCompose for Windows](https://github.com/samhocevar/wincompose)
 
 ### Linux more bearable
+
+* 📑️ [Disable ctrl+. shortcut](https://superuser.com/questions/1672408/linux-gnome-how-to-disable-ctrl-shortcut)
+
 #### Audio
 * 🔧️ [QjackCtl](https://qjackctl.sourceforge.io/) - A simple application to control the JACK server daemon
 * 🔧️ [Calf Studio Gear](https://calf-studio-gear.org/)
+* 📑️ [Better audio quality](https://github.com/adgsenpai/LinuxDolbyAtmos)
 
 ### Fonts
 * 🔧️ [Iosevka](https://typeof.net/Iosevka/)
@@ -155,7 +159,7 @@ I put things here that are useful or interesting to solely me
 
 ## (Cool) Tools
 * 📑️ [Sustainable Authorship in Plain Text using Pandoc and Markdown](https://programminghistorian.org/en/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown) - A guide to using markdown with pandoc
-* 🔧️ [Hat,sh](https://hat.sh/) - simple encryption / decryption tool
+* 🔧️ [Hat.sh](https://hat.sh/) - simple encryption / decryption tool
 * 🔧️ [Cloudconvert](https://cloudconvert.com/) - Probably the best onlince convertion tool I've found i.e not full wihth annoying adds and limits. Has lot's of convertion options.
 * 🔧️ [Bloom3D](https://bloom3d.com/) - A simple 3D tool
 * 🔧️ [Svgbob Editor](https://ivanceras.github.io/svgbob-editor/) - "Convert your ascii diagram scribbles into happy little SVG"
