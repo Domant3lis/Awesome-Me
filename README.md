@@ -19,6 +19,10 @@ I put things here that are useful or interesting to solely me
 ### Regex
 * 📑️ [regex101](https://regex101.com/)
 
+### λ-calculus
+* 🎥️ [Intro to λ-calculus](https://www.youtube.com/watch?v=3VQ382QG-y4)
+* 🎥️ [Numbers and basic arithmetic in λ-calculus](https://www.youtube.com/watch?v=pAnLQ9jwN-E)
+
 ### Maths
 * 📑️ [Boundless Algebra](https://courses.lumenlearning.com/boundless-algebra/)
 * 📑️ [College Algebra](https://courses.lumenlearning.com/ivytech-collegealgebra/)
