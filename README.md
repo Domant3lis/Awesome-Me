@@ -19,16 +19,18 @@ I put things here that are useful or interesting to solely me
 ### Regex
 * 📑️ [regex101](https://regex101.com/)
 
-### λ-calculus
-* 🎥️ [Intro to λ-calculus](https://www.youtube.com/watch?v=3VQ382QG-y4)
-* 🎥️ [Numbers and basic arithmetic in λ-calculus](https://www.youtube.com/watch?v=pAnLQ9jwN-E)
-
 ### Maths
 * 📑️ [Boundless Algebra](https://courses.lumenlearning.com/boundless-algebra/)
 * 📑️ [College Algebra](https://courses.lumenlearning.com/ivytech-collegealgebra/)
 * 🔧️ [Matrix Calculator](https://matrix.reshish.com/)
 * 🎥️ [Trigonometry Concepts - Don't Memorize! Visualize!](https://www.youtube.com/watch?v=mhd9FXYdf4s)
 * 🎥️ [How To Find The Vector Equation of a Line and Symmetric & Parametric Equations](https://www.youtube.com/watch?v=MkjazYnvNP8&t=577s)
+* https://wiki.xxiivv.com/site/logic.html
+
+#### λ-calculus
+* 🎥️ [Intro to λ-calculus](https://www.youtube.com/watch?v=3VQ382QG-y4)
+* 🎥️ [Numbers and basic arithmetic in λ-calculus](https://www.youtube.com/watch?v=pAnLQ9jwN-E)
+* 📑️ [A certain enchanted forest is inhabited by talking birds.](https://wiki.xxiivv.com/site/logic.html)
 
 ### Building your own language
 * 📑️ [Monkeylang](https://monkeylang.org/)
