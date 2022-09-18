@@ -86,6 +86,7 @@ I put things here that are useful or interesting to solely me
 
 ### JavaScript
 * 📑️ [The Modern JavaScript Tutorial](https://javascript.info/)
+* 📑️ [Eloquent JavaScript](https://eloquentjavascript.net/00_intro.html)
 
 ### Haskell
 * 📑️ [Getting started with Haskell](https://stackoverflow.com/a/1016986/16619794)
