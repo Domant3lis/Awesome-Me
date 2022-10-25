@@ -153,7 +153,8 @@ I put things here that are useful or interesting to solely me
 * 📑️ [Better audio quality](https://github.com/adgsenpai/LinuxDolbyAtmos)
 
 ### MacOS
-* 📑️ [Proper clear](https://stackoverflow.com/a/26615036)
+* 📑️ [Proper clear](https://stackoverflow.com/a/26615036) - just alias provided commands
+* 🔧️ [altTab](https://alt-tab-macos.netlify.app) - configure cmd+tab
 
 ### Fonts
 * 🔧️ [Iosevka](https://typeof.net/Iosevka/)
