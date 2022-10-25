@@ -152,6 +152,9 @@ I put things here that are useful or interesting to solely me
 * 🔧️ [Calf Studio Gear](https://calf-studio-gear.org/)
 * 📑️ [Better audio quality](https://github.com/adgsenpai/LinuxDolbyAtmos)
 
+### MacOS
+* 📑️ [Proper clear](https://stackoverflow.com/a/26615036)
+
 ### Fonts
 * 🔧️ [Iosevka](https://typeof.net/Iosevka/)
 ### Code Editors
