@@ -158,6 +158,8 @@ I put things here that are useful or interesting to solely me
 
 ### Fonts
 * 🔧️ [Iosevka](https://typeof.net/Iosevka/)
+* 🔧️ [Mono](https://www.jetbrains.com/lp/mono/)
+
 ### Code Editors
 #### Micro
 * 📑️ [Cheat-sheet](https://cheatography.com/mynocksonmyfalcon/cheat-sheets/micro-text-editor/) - Default keybindings
