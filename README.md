@@ -135,15 +135,15 @@ I put things here that are useful or interesting to solely me
 
 ## My setup
 
-### Android more bearable
+### Android
 * 📑️ [Pre-installed app removal](https://www.reddit.com/r/assholedesign/comments/i2249h/comment/g027zzw/) - A method to remove some pre-installed apps on Android phones.
 
-### Windows more bearable
+### Windows
 * 🔧️ [MSYS2](https://www.msys2.org/)
 * 🔧️ [Diskgenius](https://www.diskgenius.com/)
 * 🔧️ [XCompose for Windows](https://github.com/samhocevar/wincompose)
 
-### Linux more bearable
+### Linux
 
 * 📑️ [Disable ctrl+. shortcut](https://superuser.com/questions/1672408/linux-gnome-how-to-disable-ctrl-shortcut)
 
@@ -154,7 +154,12 @@ I put things here that are useful or interesting to solely me
 
 ### MacOS
 * 📑️ [Proper clear](https://stackoverflow.com/a/26615036) - just alias provided commands
+* 🔧️ [HomeBrew](https://brew.sh) - "The Missing Package Manager for macOS"
+* 🔧️ [Oh My Zsh](https://ohmyz.sh) - Oh My Zsh is a delightful, open source, community-driven framework for managing your Zsh configuration
 * 🔧️ [altTab](https://alt-tab-macos.netlify.app) - configure cmd+tab
+* 🔧️ [Maccy](https://maccy.app) - clipboard manager
+* 🔧️ [Rectangle](https://rectangleapp.com) - "Move and resize windows in macOS using keyboard shortcuts or snap areas"
+* 🔧️ [LinearMouse](https://linearmouse.app) - disable mouse acceleration
 
 ### Fonts
 * 🔧️ [Iosevka](https://typeof.net/Iosevka/)
@@ -168,7 +173,6 @@ I put things here that are useful or interesting to solely me
 ### DNS
 * 🔧️ [LibreDNS](https://libredns.gr/)
 * 🔧️ [NextDNS](https://nextdns.io/)
-
 
 ## (Cool) Tools
 * 📑️ [Sustainable Authorship in Plain Text using Pandoc and Markdown](https://programminghistorian.org/en/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown) - A guide to using markdown with pandoc
