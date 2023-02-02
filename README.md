@@ -155,7 +155,8 @@ I put things here that are useful or interesting to solely me
 ### MacOS
 * 📑️ [Proper clear](https://stackoverflow.com/a/26615036) - just alias provided commands
 * 🔧️ [HomeBrew](https://brew.sh) - "The Missing Package Manager for macOS"
-* 🔧️ [Oh My Zsh](https://ohmyz.sh) - Oh My Zsh is a delightful, open source, community-driven framework for managing your Zsh configuration
+* 🔧️ [Oh My Fish](https://github.com/oh-my-fish/oh-my-fish) - "Oh My Fish provides core infrastructure to allow you to install packages which extend or modify the look of your shell. It's fast, extensible and easy to use."
+* 🔧️ [Starship](https://starship.rs) - "The minimal, blazing-fast, and infinitely customizable prompt for any shell!"
 * 🔧️ [altTab](https://alt-tab-macos.netlify.app) - configure cmd+tab
 * 🔧️ [Maccy](https://maccy.app) - clipboard manager
 * 🔧️ [Rectangle](https://rectangleapp.com) - "Move and resize windows in macOS using keyboard shortcuts or snap areas"
