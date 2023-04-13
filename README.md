@@ -161,6 +161,7 @@ I put things here that are useful or interesting to solely me
 * 🔧️ [Maccy](https://maccy.app) - clipboard manager
 * 🔧️ [Rectangle](https://rectangleapp.com) - "Move and resize windows in macOS using keyboard shortcuts or snap areas"
 * 🔧️ [LinearMouse](https://linearmouse.app) - disable mouse acceleration
+* 🔧️ [UnnaturalScrollWheels](https://github.com/ther0n/UnnaturalScrollWheels) - "Invert scroll direction for physical scroll wheels while maintaining "Natural" scrolling for trackpads on MacOS."
 
 ### Fonts
 * 🔧️ [Iosevka](https://typeof.net/Iosevka/)
