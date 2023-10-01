@@ -27,6 +27,11 @@ I put things here that are useful or interesting to solely me
 * 🎥️ [How To Find The Vector Equation of a Line and Symmetric & Parametric Equations](https://www.youtube.com/watch?v=MkjazYnvNP8&t=577s)
 * https://wiki.xxiivv.com/site/logic.html
 
+#### Useful tools
+* 🔧️ [Wolfgram](https://www.wolframalpha.com/)
+* 🔧️ [GeoAlbegra](https://www.geogebra.org/calculator)
+* 🔧️ [Symbolab](https://www.symbolab.com/solver)
+
 #### λ-calculus
 * 🎥️ [Intro to λ-calculus](https://www.youtube.com/watch?v=3VQ382QG-y4)
 * 🎥️ [Numbers and basic arithmetic in λ-calculus](https://www.youtube.com/watch?v=pAnLQ9jwN-E)
