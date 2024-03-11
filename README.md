@@ -12,6 +12,11 @@ I put things here that are useful or interesting to solely me
 
 ## For Learning
 
+### General
+* 📑️ [Exersicm](https://exercism.org/)
+* 📑️ [Learn X in Y minutes](https://learnxinyminutes.com/)
+* 📑️ [Rico's cheatsheets](devhints.io)
+
 ### Make
 * 📑️ [Makefile Tutorial](https://makefiletutorial.com/)
 * 📑️ [A Simple Makefile Tutorial](https://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/)
@@ -46,10 +51,6 @@ I put things here that are useful or interesting to solely me
 * 📑️ [Rust and GTK 4](https://gtk-rs.org/gtk4-rs/stable/latest/book/)
 * 📑️ [GNOME Developer Docs](https://developer.gnome.org/)
 * 📑️ [Drawing GNOME App Mockups](https://blogs.gnome.org/tbernard/2021/03/22/drawing-mockups/)
-
-### Others
-* 📑️ [Exersicm](https://exercism.org/)
-* 📑️ [Learn X in Y minutes](https://learnxinyminutes.com/)
 
 
 ## Programming languages
