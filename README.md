@@ -99,6 +99,9 @@ I put things here that are useful or interesting to solely me
 ### Haskell
 * 📑️ [Getting started with Haskell](https://stackoverflow.com/a/1016986/16619794)
 
+### Java/Spring/Jakarta/JSF
+* 📑️ [Mkyong.com](https://mkyong.com)
+
 ## Computer Science
 ### Binary numbers
 
