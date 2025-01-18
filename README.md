@@ -99,10 +99,18 @@ I put things here that are useful or interesting to solely me
 ### Haskell
 * 📑️ [Getting started with Haskell](https://stackoverflow.com/a/1016986/16619794)
 
+### OCaml
+* 📑️ [OCaml Programming: Correct + Efficient + Beautiful](https://cs3110.github.io/textbook/cover.html)
+
 ### Java/Spring/Jakarta/JSF
 * 📑️ [Mkyong.com](https://mkyong.com)
 
 ## Computer Science
+
+### Formal proofs
+
+* 📑️ [Software Foundations](https://softwarefoundations.cis.upenn.edu)
+
 ### Binary numbers
 
 * 📑️ [Bit Masks](https://www.playembedded.org/blog/registers-and-bit-masks/)
