@@ -160,6 +160,10 @@ I put things here that are useful or interesting to solely me
 * 🔧️ [Diskgenius](https://www.diskgenius.com/)
 * 🔧️ [XCompose for Windows](https://github.com/samhocevar/wincompose)
 
+### Shell
+
+* 🔧️ [tode](https://github.com/IlanCosman/tide/)
+
 ### Linux
 
 * 📑️ [Disable ctrl+. shortcut](https://superuser.com/questions/1672408/linux-gnome-how-to-disable-ctrl-shortcut)
